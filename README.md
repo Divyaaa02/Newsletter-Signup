@@ -38,7 +38,6 @@ https://github.com/Divyaaa02/Newsletter-Signup/assets/109462776/4e60b285-ebae-4a
 
 
 
-![Screenshot (61)](https://github.com/Divyaaa02/Newsletter-Signup/assets/109462776/850d7787-a6c8-460a-8037-3fe14f6f27ee)
 
 
 
