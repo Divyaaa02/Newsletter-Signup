@@ -1,3 +1,35 @@
-This is a web-application which collects first_name , second_name and email of people for sending newsletters through emails. The web application has been hosted on heroku and the data is being collected using mailchimp via api calls.
+# Newsletter Subscription Web Application
 
-Technologies used:-HTML5 , CSS3 ,Javascript , Bootstrap v5.0.2 , nodeJs , expressJs, api ,mailchimp
+This is a web application for collecting first names, last names, and email addresses from people for sending newsletters through email. The web application is hosted on Heroku, and it collects data using Mailchimp via API calls.
+
+## Technologies Used
+
+- **HTML5:** Used for structuring the web pages.
+- **CSS3:** Applied for styling and layout design.
+- **JavaScript:** Used for client-side interactivity.
+- **Bootstrap v5.0.2:** Utilized for responsive and mobile-first design.
+- **Node.js:** Server-side JavaScript runtime.
+- **Express.js:** A web application framework for Node.js.
+- **Mailchimp API:** Used for managing email newsletter subscriptions.
+
+## Getting Started
+
+Follow these steps to get a copy of the project up and running on your local machine:
+
+1. Clone the repository: `git clone https://github.com/Divyaaa02/Newsletter-Signup`
+2. Install the required dependencies: `npm install`
+3. Set up your Mailchimp API credentials in the configuration file.
+
+## Configuration
+
+You need to configure your Mailchimp API credentials in the `config.js` file. Replace the placeholders with your own API key and list ID.
+
+```javascript
+module.exports = {
+  apiKey: 'YOUR_MAILCHIMP_API_KEY',
+  listId: 'YOUR_MAILCHIMP_LIST_ID'
+};
+
+```
+## Demo 
+
