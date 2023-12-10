@@ -34,7 +34,7 @@ app.post("/", function(req, res) {
   const url = "https://us6.api.mailchimp.com/3.0/lists/{lists_id}";
   const options = {
     method: "POST",
-    auth: "tushar:{API_KEY}"
+    auth: "divya:{API_KEY}"
   }
 
 
